@@ -1,1 +1,1 @@
-# https://github.com/Egor-bog/Egor.git
+# https://github.com/Egor-bog/Egor/index.html
