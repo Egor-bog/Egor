@@ -1,1 +1,1 @@
-# Egor
+# rsschool-cv
