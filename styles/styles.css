@@ -30,6 +30,11 @@ dt {
     font-weight: 800;
 }
 
+.link_activation {
+    color: #0366d6;
+    text-decoration: none;
+    }
+
 
 .link_activation a {
     color: #0366d6;
