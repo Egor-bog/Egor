@@ -26,10 +26,10 @@ From school times he was fond of programming. So in the 10th grade I wrote the g
 ## Education:
 
 2000
-: * **Secondary special education. Lawyer.**
+: * Secondary special education. Lawyer.
 
 2013
-: * **Higher technical education. Civil engineer.**
+: * Higher technical education. Civil engineer.
 
 
 ## English level: A2
