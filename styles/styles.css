@@ -8,13 +8,10 @@ hr {
     height: 2px;
 }
 
-
-
 h2 {
     
     font-size: 2em;
-    margin-top: 1em;
-    
+    margin-top: 1em;    
 }
 
 p {
@@ -36,13 +33,12 @@ dt {
 
 .link_activation a {
     text-decoration: none;
+    color: #0366d6;
 }
 
 .link_activation a:hover {
     text-decoration: underline;
 }
-
-
 
 .block_settings {
     max-width: 1024px;
